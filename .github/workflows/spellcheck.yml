@@ -1,3 +1,6 @@
+name: Spellcheck Action
+on: push
+
 jobs:
   check-spelling:
     runs-on: ubuntu-latest
