@@ -8,17 +8,19 @@ Additionally, I have extensive experience developing college level mathematical 
 
 ### Education
 
-M.Sc, Data Science. University of Rhode Island - In Progress 
+Ph.D, Mathematics.  Bowling Green State University
 
-Ph.D, Mathematics.  Bowling Green State University, 2014.
+M.Sc, Data Science. University of Rhode Island 
 
-M.A., Mathematics. Bowling Green State Univeristy, 2009.
+M.A., Mathematics. Bowling Green State Univeristy
 
-B.Sc., Mathematics. Universidade Federal do Rio de Janeiro, 2002.
+B.Sc., Mathematics. Universidade Federal do Rio de Janeiro
 
 ### Experience
 
-Associate Professor of Mathematics - Rhode Island College, 2019 - Present. 
+Professor of Mathematics - Rhode Island College, 2024-Present
+
+Associate Professor of Mathematics - Rhode Island College, 2019 - 2024
 
 Assistant Professor of Mathematics - Rhode Island College, 2014-2019
 
